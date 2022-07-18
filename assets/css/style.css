@@ -1,0 +1,9 @@
+body {
+    background-color: blue;
+    text-align: center;
+}
+.boxpadre {
+    display: flex;
+    flex-direction: row;
+    
+}

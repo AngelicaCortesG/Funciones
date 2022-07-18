@@ -17,11 +17,10 @@ ele.addEventListener("click", pintar);
         // div.addEventListener("click", function () {pintar()});
 
 // Verde por defecto, al hacer click pasa a amarillo
-
-                // div= document.querySelector('#ele1')
-                // function pintar(color= "green") {
-                //     div.style.backgroundColor = color
-                // }
-                // div.addEventListener("click", function() {
-                //     pintar('yellow')
-                // });
+         // div= document.querySelector('#ele1')
+         // function pintar(color= "green") {
+         //     div.style.backgroundColor = color
+         // }
+         // div.addEventListener("click", function() {
+            //     pintar('yellow')
+            // });
