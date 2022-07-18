@@ -1,3 +1,3 @@
-ejemplo= function example(a, b, c){
+ejemplo = function example(a, b, c){
     return a+b+c
     }
