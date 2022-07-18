@@ -1,4 +1,6 @@
 
+let color= "blue"
+
 document.addEventListener('keydown', function (event) {
     if (event.key === 'a') {
         /* Cambiar a color 1 */
@@ -29,4 +31,4 @@ box3.addEventListener("click", function () { (box3.style.backgroundColor = color
 box4.addEventListener("click", function () { (box4.style.backgroundColor = color) });
 
 
-
+// también se puede sustituir la palabra function por una flecha y funcionará

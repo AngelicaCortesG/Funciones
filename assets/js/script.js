@@ -14,13 +14,13 @@ ele.addEventListener("click", pintar);
         // function pintar(color= "green") {
         //     div.style.backgroundColor = color
         // }
-        // div.addEventListener("click", function () {pintar()});
+        // div.addEventListener("click", () => {pintar()});
 
 // Verde por defecto, al hacer click pasa a amarillo
-         // div= document.querySelector('#ele1')
-         // function pintar(color= "green") {
-         //     div.style.backgroundColor = color
-         // }
-         // div.addEventListener("click", function() {
-            //     pintar('yellow')
-            // });
+        //  div= document.querySelector('#ele1')
+        //  function pintar(color= "green") {
+        //      div.style.backgroundColor = color
+        //  }
+        //  div.addEventListener("click", () => {
+        //         pintar('yellow')
+        //     });

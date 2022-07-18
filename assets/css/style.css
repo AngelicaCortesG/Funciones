@@ -5,5 +5,10 @@ body {
 .boxpadre {
     display: flex;
     flex-direction: row;
+    justify-content: center;
     
+}
+
+p {
+    color: #fff
 }
